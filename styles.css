@@ -10,4 +10,9 @@ body {
 	align-items: center;
 	height: 100vh;
 	margin: 0;
+	background: linear-gradient(to bottom, #7f7ff2 20%, #ec95df);
+}
+
+audio {
+	background-color: transparent;
 }
